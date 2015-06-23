@@ -22,3 +22,7 @@ Benefits of hiring Contractor:
 - Cost: $120 - 150K
 
 Although hiring a FT employee would be the recommended choice in many cases, speed and flexibility might be critical factors for the project. This is why hiring a Dev Shop or Contractor is a suitable choice in project under pressure and very tight deadlines. 
+
+Example of Dev Shop: 
+[Sourcebits] (https://www.http://sourcebits.com)
+[Sourcebits] (https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=https%3A%2F%2Ftwitter.com%2Fsourcebits&ei=PJmJVfjMNcrx-AH1ooBw&bvm=bv.96339352,d.cWw&psig=AFQjCNENWSfNZn8d3G1r0f1JpsINSMCmHw&ust=1435167419557254)
