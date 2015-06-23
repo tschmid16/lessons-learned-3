@@ -16,5 +16,5 @@ related to software development management:
 
 [PragmaticProgrammer] (https://www.safaribooksonline.com/library/view/the-pragmatic-programmer/020161622X/)
 
-![PragmaticProgrammer] (https://en.wikipedia.org/wiki/The_Pragmatic_Programmer#/media/File:The_pragmatic_programmer.jpg)
+![PragmaticProgrammer] (https://en.wikipedia.org/wiki/The_Pragmatic_Programmer#/media/File:The_pragmatic_programmer.md)
 
