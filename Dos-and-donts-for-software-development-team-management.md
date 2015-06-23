@@ -13,3 +13,7 @@ related to software development management:
 8. Work with sound assumptions and prove them
 9. Never forget the big picture
 10. Encourage your team to create change and always take accountability (especially when the outlook doesn't look great at times)
+
+[PragmaticProgrammer] (https://www.safaribooksonline.com/library/view/the-pragmatic-programmer/020161622X/)
+
+![PragmaticProgrammer](https://imagery.pragprog.com/products/59/tpp.jpg?1339433898)
