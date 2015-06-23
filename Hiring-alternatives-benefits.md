@@ -25,4 +25,4 @@ Although hiring a FT employee would be the recommended choice in many cases, spe
 
 Example of Dev Shop: 
 [Sourcebits] (https://www.http://sourcebits.com)
-![Sourcebits] (https://www.dropbox.com/s/v2kqpdwhu7itiva/Sourcebits.png?dl=0)
+![Sourcebits] (https://www.dropbox.com/s/v2kqpdwhu7itiva/Sourcebits.png)
