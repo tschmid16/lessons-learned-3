@@ -1,4 +1,4 @@
-This is a short summary of options for app development and a rationale how to choose:
+This is a short summary of options for app development and a rationale how to choose
 
 When thinking about developing an app there are 3 general possibilities: 
 1) Using a standardized system (e.g. phonegap): high efficiency, low customizability
