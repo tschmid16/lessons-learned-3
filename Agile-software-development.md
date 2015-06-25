@@ -15,4 +15,4 @@ While there are many variants of Agile software development, there are a number 
 <LI>There are frequent (often daily) <B>stand ups</B> in which developers report to the rest of the team what they have accomplished and what they are planning to do next.</LI>
 <LI>The development approach often adopts specific techniques to improve quality and efficiency, including test-driven development (TDD), continuous integration, and code refactoring.</LI>
 </UL>
-Over the years, Agile development has evolved into two main branches: Agile/Scrum and Lean Software Development.
+Over the years, Agile development has evolved into two main branches: Agile/Scrum and Lean Software Development
