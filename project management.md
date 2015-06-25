@@ -23,6 +23,6 @@ Useful softwares with good/practical features
   (d) Ask for help if needed
   (e) Brainstorm with peers
   
-! [Project management] (http://www.accelbi.com/wp-content/uploads/2015/02/Program-Project-Management.jpg)
+! [Project management](http://www.accelbi.com/wp-content/uploads/2015/02/Program-Project-Management.jpg)
 
 https://trello.com/
