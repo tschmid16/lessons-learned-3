@@ -1,6 +1,6 @@
 Besides the classes, I believe that reading the Pragmatic Programmer contributed a lot to my future decision making 
 and organizational understanding of IT related projects. Being a consultant at this stage of my life
-and knowing that I will be returning to consultancy, I know I will merit from knowing the musts and pitfalls
+and knowing that I will be returning to consultancy, I know I will merit from knowing the follwing musts and pitfalls
 related to software development management:
 
 1. Organize teams around functionality so build the teams the way the code is built.
