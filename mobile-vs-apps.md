@@ -1,4 +1,4 @@
-In deciding between creating a mobile app versus a website, consider the following:
+In deciding between creating a mobile app versus a website, consider the following
 
 1.	When building an app, you need to build codes for Android and iOS as well as for the web server.
 2.	Cycle time is a lot longer on mobile apps.  For example, Apple’s application approval process may take weeks.
