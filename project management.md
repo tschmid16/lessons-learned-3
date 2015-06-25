@@ -1,4 +1,4 @@
-Good concept of KanBan
+The good concept of KanBan
 1. Clear overview for project leaders about the progress of project
 2. Clear logic/approach for the project and flexible to change according to the progress
 3. Clear schedule for every team member about their own assignments/topics
