@@ -1,6 +1,6 @@
 API is the bridge of communication between two different systems. It could be a one-way communication or two-way.
 Information is fed from one system to another (e.g. A to B); the information is then used for a process in system B.
-It's possible that system B would also generate a report back to system A through the API.
+It is possible that system B would also generate a report back to system A through the API.
 
 
 
