@@ -8,7 +8,7 @@ Benefits of hiring FT employee:
 - Easier communication & more control of employee’s use of time
 - Cost: $120 - 140K
 
-Benefits of hiring Dev Shop:
+Benefits of hiring Developer Shop:
 - Higher execution speed: pool of engineers available
 - Wider breadth of skill as a result of continuous training
 - Higher flexibility: lower cost when there is not much work
